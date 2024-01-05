@@ -1,5 +1,6 @@
-numpy
-tk
-Pillow
-tensorflow
-requests
+numpy==1.20.3
+tk==8.6.10
+Pillow==8.2.0
+tensorflow==2.5.0
+requests==2.25.1
+
