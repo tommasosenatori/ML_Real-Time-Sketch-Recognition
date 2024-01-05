@@ -10,8 +10,11 @@ su un canvas interattivo, offrendo un’analisi dei
 risultati, un’implementazione di un’interfaccia grafica e
 prospettive future per migliorare l’efficacia del sistema.
 ## Discussione
-La discussione del progetto è [questa]()
+La discussione del progetto è [questa]().
 ## Codice
-Il codice con la CNN è [questo]().
+Il codice con la CNN è [questo](QuickDraw_CNN20.ipynb).
+Il codice con la NN è [questo](QuickDraw_NN20.ipynb).
+Il codice con la NN costruita da 0 è [questo](QuickDraw_20da0.ipynb).
+## GUI
 ## Crediti
 - Tommaso Senatori
