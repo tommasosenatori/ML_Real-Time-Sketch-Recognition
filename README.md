@@ -10,7 +10,7 @@ su un canvas interattivo, offrendo un’analisi dei
 risultati, un’implementazione di un’interfaccia grafica e
 prospettive future per migliorare l’efficacia del sistema.
 ## Discussione
-La discussione del progetto è disponibile [qui]().
+La discussione del progetto è disponibile [qui](Progetto_ML.pdf).
 ## Codice
 - **CNN (Convolutional Neural Network):**
   [Link al Codice CNN](QuickDraw_CNN20.ipynb).
