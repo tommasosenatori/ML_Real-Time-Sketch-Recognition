@@ -12,5 +12,6 @@ prospettive future per migliorare l’efficacia del sistema.
 ## Discussione
 La discussione del progetto è [questa]()
 ## Codice
+Il codice con la CNN è [questo]().
 ## Crediti
 - Tommaso Senatori
