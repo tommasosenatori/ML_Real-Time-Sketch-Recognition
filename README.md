@@ -21,7 +21,7 @@ La discussione del progetto è disponibile [qui]().
 - **NN Costruita da Zero:**
   [Link al Codice NN da Zero](QuickDraw_20da0.ipynb)
 
-- (CNN con solo 10 classi):
+- CNN con solo 10 classi:
   [Link al Codice CNN 10 classi](QuickDraw_CNN10.ipynb)
   
 ## GUI
