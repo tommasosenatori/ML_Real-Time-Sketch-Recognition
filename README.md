@@ -12,9 +12,14 @@ prospettive future per migliorare l’efficacia del sistema.
 ## Discussione
 La discussione del progetto è [questa]().
 ## Codice
-Il codice con la CNN è [questo](QuickDraw_CNN20.ipynb).
-Il codice con la NN è [questo](QuickDraw_NN20.ipynb).
-Il codice con la NN costruita da 0 è [questo](QuickDraw_20da0.ipynb).
+- **CNN (Convolutional Neural Network):**
+  [Link al Codice CNN](QuickDraw_CNN20.ipynb)
+
+- **NN (Neural Network) con TensorFlow:**
+  [Link al Codice NN con TensorFlow](QuickDraw_NN20.ipynb)
+
+- **NN Costruita da Zero:**
+  [Link al Codice NN da Zero](QuickDraw_20da0.ipynb)
 ## GUI
 ## Crediti
 - Tommaso Senatori
