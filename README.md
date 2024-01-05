@@ -13,20 +13,20 @@ prospettive future per migliorare l’efficacia del sistema.
 La discussione del progetto è disponibile [qui]().
 ## Codice
 - **CNN (Convolutional Neural Network):**
-  [Link al Codice CNN](QuickDraw_CNN20.ipynb)
+  [Link al Codice CNN](QuickDraw_CNN20.ipynb).
 
 - **NN (Neural Network) con TensorFlow:**
-  [Link al Codice NN con TensorFlow](QuickDraw_NN20.ipynb)
+  [Link al Codice NN con TensorFlow](QuickDraw_NN20.ipynb).
 
 - **NN Costruita da Zero:**
-  [Link al Codice NN da Zero](QuickDraw_20da0.ipynb)
+  [Link al Codice NN da Zero](QuickDraw_20da0.ipynb).
 
 - CNN con solo 10 classi:
-  [Link al Codice CNN 10 classi](QuickDraw_CNN10.ipynb)
+  [Link al Codice CNN 10 classi](QuickDraw_CNN10.ipynb).
   
 ## GUI
 Per provare a disegnare sul canvas:
-[Link al Codice per disegnare](GUI_prova.ipynb)
+[Link al Codice per disegnare](GUI_prova.ipynb).
 
 ## Crediti
 - Tommaso Senatori
