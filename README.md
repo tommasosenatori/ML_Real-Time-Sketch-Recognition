@@ -25,5 +25,8 @@ La discussione del progetto è disponibile [qui]().
   [Link al Codice CNN 10 classi](QuickDraw_CNN10.ipynb)
   
 ## GUI
+Per provare a disegnare sul canvas:
+[Link al Codice per disegnare](GUI_prova.ipynb)
+
 ## Crediti
 - Tommaso Senatori
