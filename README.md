@@ -27,6 +27,7 @@ La discussione del progetto è disponibile [qui]().
 ## GUI
 Per provare a disegnare sul canvas:
 [Link al Codice per disegnare](GUI/GUI_prova.ipynb).
+Se non si hanno le librerie necessarie, scaricarle [qui](GUI/requirements.txt),
 
 ## Crediti
 - Tommaso Senatori
